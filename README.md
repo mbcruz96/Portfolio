@@ -1,7 +1,3 @@
-# Software Engineer
-# Data Scientist 
-# Penetration tester
-
 ### Technical Skills: C++, Python, C, C#, Java, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
 
 ### Education
