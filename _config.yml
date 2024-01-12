@@ -1,7 +1,7 @@
 title: Michael Cruz
-logo: assets/Img/porfolio_pic2
+logo: assets/Img/porfolio_pic2.jpg
 description: Software Engineer
-description: Data Scientist
-description: Penetration Tester
+#description: Data Scientist
+#description: Penetration Tester
 show_downloads: true
 theme: jekyll-theme-minimal
