@@ -2,7 +2,8 @@
 # Data Scientist 
 
 ### Education
-Computer Science, MS
+- M.S., Computer Science | University of Central Florida (_May 2024_)
+- B.S., Computer Science | Florida State  (_December 2021_)
 
 ### Work Experience
 Application Systems Analyst @ Leon County Government
