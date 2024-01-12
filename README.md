@@ -24,6 +24,10 @@
 - Created a Transformer with a CNN encoder and an LSTM decoder to automatically generate clinical reports.
 - After training multiple models, the model weights were averaged using Federated Learning to create a global model and propagated the weights back to each individual model.
 - [Code](https://github.com/mbcruz96/Clinical-Report-Generation.git)
+
+  **Canny Edge Detector**
+  - Implemented the Canny Edge Detector
+  - [Code](https://github.com/mbcruz96/Canny-Edge-Detection.git)
   
 **MCTL template library**
 - Created the Michael Cruz template library, which implements all of the data structures available in the C++ std library.
