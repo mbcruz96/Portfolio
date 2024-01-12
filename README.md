@@ -17,14 +17,15 @@ Cheerleading and Tumbling Coach @ Cheer Nation Athletics
 - big impact project 1!
 - big impact project 2!
 
-  ### Projects
-  Clinical Report Generator
-  - details
+### Projects
+Clinical Report Generator
+- details
   
-  MCTL template library
-  - details
+MCTL template library
+- details
  
-  Anime webscraper
-  - details 
+Anime webscraper
+- details 
 
+  
   
