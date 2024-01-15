@@ -45,7 +45,7 @@
 - Using hysterisis thresholding, dominant edge pixels are discovered using eight way connectivity. 
 - [Code](https://github.com/mbcruz96/Canny-Edge-Detection.git)
 
-**Digit AutoEncoder**
+**[Digit AutoEncoder](https://github.com/mbcruz96/AutoEncoder)**
 - Using the MNIST dataset, an autoencoder model was implemented that predicts what digit a photo contains
 - The model encodes the image into a latent space and decodes a representation of the original image with upsampling
 - [Code](https://github.com/mbcruz96/AutoEncoder)
