@@ -38,7 +38,7 @@
 
   
 ### Projects
-**Canny Edge Detector**
+# [Canny Edge Detector](https://github.com/mbcruz96/Canny-Edge-Detection.git)
 - Implemented the Canny Edge Detector
 - Images are smoothed using a Gaussian filter and then their orientations and magnitudes are calculated.
 - Non-maximum suppression is performed on the image pixels to discover true edge pixels.
