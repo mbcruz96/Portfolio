@@ -31,9 +31,26 @@
 - Non-maximum suppression is performed on the image pixels to discover true edge pixels.
 - Using hysterisis thresholding, dominant edge pixels are discovered using eight way connectivity. 
 - [Code](https://github.com/mbcruz96/Canny-Edge-Detection.git)
+
+**Digit AutoEncoder**
+- Using the MNIST dataset, an autoencoder model was implemented that predicts what digit a photo contains
+- The model encodes the image into a latent space and decodes a representation of the original image with upsampling
+- [Code](https://github.com/mbcruz96/AutoEncoder)
+
+**Otsu Thresholding**
+- Implemented the Otsu thresholding algorithm for binary image segmantation
+- This implementation iteratively uses each pixel intensity from 0-255 to calculate the intra class variance between the two distributions created by using the current pixel intensity as the seperating boundary of the distributions.
+- The intensity which yields the highest variance amongst the distributions is chosen as the thresholding value used to alter the original image.
+- [Code](https://github.com/mbcruz96/Otsu)
+
+**Generative Shakespearian Speech Model**
+- NLP model that generates text in the style of Shakesperian english
+- The model is pretrained on a corpus containing some of Shakespear's work
+- Using a seed, the model generatively creates sentances reminiscent of old English vernacular
+- [Code](https://github.com/mbcruz96/LSTM/blob/main/TextGenerator.ipynb)
   
 **MCTL template library**
-- Created the Michael Cruz template library, which implements all of the data structures available in the C++ std library.
+- Created the Michael Cruz template library, which implements some of the data structures available in the C++ std library.
 - [Code](https://github.com/mbcruz96/MCTL.git)
 
   
