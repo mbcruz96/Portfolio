@@ -1,8 +1,10 @@
 ### Technical Skills: C++, Python, C, C#, Java, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
 
+
 ### Education
 - M.S., Computer Science | University of Central Florida (_May 2024_)
 - B.S., Computer Science | Florida State  (_December 2021_)
+
 
 ### Work Experience
 **Application Systems Analyst @ Leon County Government (_March 2022 - January 2023_)**
@@ -19,6 +21,7 @@
 - Worked as a Tumbling Coach, taught individuals ranging from ages 3-18 tumbling and stunting skills to better their cheerleading potential.
 - Conditioned the athletes to increase their fitness level. Worked in teams, ensuring proper safety techniques were enforced. 
 
+
 ### Research
 **Comparative Study of Facial Detection Algorithms**
 - Researched Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG facial detection algorithms in efforts to compare their performances.
@@ -32,6 +35,7 @@
 - By utilizing a federated learning, the model could be upscaled so that hospitals could use the model to generate clinical reports without sharing private patient information across hospitals.
 - Goal: To implement a model that would allow medical data to be used in deep learning models without breaching constraints imposed by HIPPA
 - [Research](https://github.com/mbcruz96/Clinical-Report-Generation.git)
+
   
 ### Projects
 **Canny Edge Detector**
