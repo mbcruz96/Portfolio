@@ -19,12 +19,21 @@
 - Worked as a Tumbling Coach, taught individuals ranging from ages 3-18 tumbling and stunting skills to better their cheerleading potential.
 - Conditioned the athletes to increase their fitness level. Worked in teams, ensuring proper safety techniques were enforced. 
 
-### Projects
+### Research
+**Comparative Study of Facial Detection Algorithms**
+- Researched Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG facial detection algorithms in efforts to compare their performances.
+- Implemented all algorithms in three mediums: photos, videos, and live-stream videos.
+- Goal: To determine the performance of currently used facial detection algorithms, highlighting the benefits and limitations of each in different situations
+- [Research](https://github.com/mbcruz96/Facial-detection)
+
 **Clinical Report Generator**
 - Created a Transformer with a CNN encoder and an LSTM decoder to automatically generate clinical reports.
 - After training multiple models, the model weights were averaged using Federated Learning to create a global model and propagated the weights back to each individual model.
-- [Code](https://github.com/mbcruz96/Clinical-Report-Generation.git)
-
+- By utilizing a federated learning, the model could be upscaled so that hospitals could use the model to generate clinical reports without sharing private patient information across hospitals.
+- Goal: To implement a model that would allow medical data to be used in deep learning models without breaching constraints imposed by HIPPA
+- [Research](https://github.com/mbcruz96/Clinical-Report-Generation.git)
+  
+### Projects
 **Canny Edge Detector**
 - Implemented the Canny Edge Detector
 - Images are smoothed using a Gaussian filter and then their orientations and magnitudes are calculated.
