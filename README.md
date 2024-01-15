@@ -1,4 +1,5 @@
-### Technical Skills: C++, Python, C, C#, Java, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
+# Technical Skills
+### C++, Python, C, C#, Java, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
 
 
 # Education
@@ -38,14 +39,14 @@
 
   
 # Projects
-### [Canny Edge Detector](https://github.com/mbcruz96/Canny-Edge-Detection.git)
+**Canny Edge Detector**
 - Implemented the Canny Edge Detector
 - Images are smoothed using a Gaussian filter and then their orientations and magnitudes are calculated.
 - Non-maximum suppression is performed on the image pixels to discover true edge pixels.
 - Using hysterisis thresholding, dominant edge pixels are discovered using eight way connectivity. 
 - [Code](https://github.com/mbcruz96/Canny-Edge-Detection.git)
 
-**[Digit AutoEncoder](https://github.com/mbcruz96/AutoEncoder)**
+**Digit AutoEncoder**
 - Using the MNIST dataset, an autoencoder model was implemented that predicts what digit a photo contains
 - The model encodes the image into a latent space and decodes a representation of the original image with upsampling
 - [Code](https://github.com/mbcruz96/AutoEncoder)
