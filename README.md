@@ -40,7 +40,7 @@
 - The intensity which yields the highest variance amongst the distributions is chosen as the thresholding value used to alter the original image.
 - [Code](https://github.com/mbcruz96/Otsu)
 
-**Comparative Convulutional Neural Network Designs**
+**Comparative Convolutional Neural Network Designs**
 - Using the MNIST dataset, multiple convolutional neural network architectures were designed to see how different architectures affect the quality of the model.
 - Through command line interface, five different models can be selected with different numbers of layers, activations, and hyperparameters. Each model will train and accuracy and precision are calculated and displayed for each iteration.
 - [MNIST Code](https://github.com/mbcruz96/ConvNet/tree/main/MNIST)
