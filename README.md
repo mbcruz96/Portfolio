@@ -71,6 +71,11 @@
 - An LSA model and an LDA model were created and the top 10 topics and top 20 words from each topic were determined and compared for accuracy.
 - [Code](https://github.com/mbcruz96/topic-modeling)
 
+**Weak Heap**
+- Implemented a heap varient, a weak heap
+- The weak heap removes the shape constraint of the classic heap structure via reverse bits to lower computation cost of the data structures operations
+- [Code](https://github.com/mbcruz96/Weakheap)
+  
 **Python Dungeon Crawler VideoGame**
 - Implemented an Isometric dungeon crawler
 - A sqlite3 database was used to save highscores for each completed run.
