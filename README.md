@@ -15,7 +15,7 @@
 - Goal: To implement a model that would allow medical data to be used in deep learning models without breaching constraints imposed by HIPPA
 - [Research](https://github.com/mbcruz96/Clinical-Report-Generation.git)
 
-**Optimal Hardware Implementation of Multi-Level Cache Based on Software Simulation**
+**Optimal Hardware Implementation of Multi-Level Cache Based on Software Simulations**
 - Research centered around designing various multi-level cache software implementations with various architectures and measuring each implementation on how it impacts power consumption, timing, and utilization on a benchmark FPGA
 - The cache simulators determined the optimal miss rate which was implemented in hardware via Verilog, SystemVerilog, and Vivado
 - Goal: Determine the hardware benefits and drawbacks of high-performance multi-level cache designs as well as finding the optimal design architecture
@@ -71,6 +71,12 @@
 - An LSA model and an LDA model were created and the top 10 topics and top 20 words from each topic were determined and compared for accuracy.
 - [Code](https://github.com/mbcruz96/topic-modeling)
 
+**Artificially Intelligent Pac-Man Simulation**
+- Using Berkley's Pac-Man simulator, various artificial intelligence techniques were implemented to automate the video game Pac-Man effieciently.
+- Implemented artificial intelligence search methods including depth first search, breadth first search, a-star search, and uniform cost search, to enable Pac-Man to optimally consume all of the dots in the plane.
+- Designed and implemented Q-learning and Value iteration reinforcement learning techniques to find the best policy for the model
+- [Code](https://github.com/mbcruz96/Search-Agents)
+  
 **Weak Heap**
 - Implemented a heap varient, a weak heap
 - The weak heap removes the shape constraint of the classic heap structure via reverse bits to lower computation cost of the data structures operations
