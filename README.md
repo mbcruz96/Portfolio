@@ -1,5 +1,5 @@
 # Technical Skills
-### Computer Vision, Natural Language Processing, Machine Learning, Artificial IntelligenceC++, Python, C, C#, Java, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
+### Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence, C++, Python, C, C#, Java, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
 
 # Research
 **Comparative Study of Facial Detection Algorithms**
@@ -41,9 +41,18 @@
 - [Code](https://github.com/mbcruz96/Otsu)
 
 **Comparative Convulutional Neural Network Designs**
-- Using the MNIST dataset, multiple convolutional neural network architectures were designed to see how different architectures affect the quality of the model
+- Using the MNIST dataset, multiple convolutional neural network architectures were designed to see how different architectures affect the quality of the model.
 - Through command line interface, five different models can be selected with different numbers of layers, activations, and hyperparameters. Each model will train and accuracy and precision are calculated and displayed for each iteration.
+- [MNIST Code](https://github.com/mbcruz96/ConvNet/tree/main/MNIST)
+- Using the CIFAR-10 dataset, different hyperparameters were used in order to determine which hyperparameters affected the model's training the most.
+- Accuracy and precision were calculated and loss curves were graphed for the different configurations to find the optimal model architecture.
+- [CIFAR-10 Code](https://github.com/mbcruz96/ConvNet/tree/main/CIFAR-10)
 - [Code](https://github.com/mbcruz96/ConvNet)
+
+**Fine-tuned Transformer**
+- The BERT tranformer model was fine-tuned for the down-stream task of sentiment classification.
+- Using the IMDB dataset, all previous model layer were frozen, and a classification layer was added on top to accomplish classification.
+- [Code](https://github.com/mbcruz96/Fine-Tune-BERT)
 
 **Generative Shakespearian Speech Model**
 - NLP model that generates text in the style of Shakesperian english
@@ -55,10 +64,33 @@
 - Designed multiple sentiment classifier architectures.
 - Using different activation functions as well as different numbers of layers the optimal model was determined which accomplishes the task of sentiment analysis.
 - [Code](https://github.com/mbcruz96/Neural-Network)
+
+**Topic Modeling**
+- Comparatively studied the best methods to accomplish the NLP task of topic modeling.
+- Both bag-of-words and TF-IDF representations were used to create the models and their performances were compared.
+- An LSA model and an LDA model were created and the top 10 topics and top 20 words from each topic were determined and compared for accuracy.
+- [Code](https://github.com/mbcruz96/topic-modeling)
+
+**Python Dungeon Crawler VideoGame**
+- Implemented an Isometric dungeon crawler
+- A sqlite3 database was used to save highscores for each completed run.
+- Pygame was used as the primary development library along with the native libraries: Math, os, random, and time.
+- [Code](https://github.com/mbcruz96/Python-Game)
+
+**FAT32 File System**
+- Designed a FAT32 filesystem and all of its' operations
+- [Code](https://github.com/mbcruz96/FAT32)
+ 
+**Elevator Kernel Module**
+- Created a kernel module that simulates the functionality of an elevator
+- Compared different implementations to find optimal policies
+- Added system calls to the OS and used said calls in a module that utilized concurrent threads in C
+- [Code](https://github.com/mbcruz96/Elevator-Kernel-Module)
   
 **DES Encryption**
 - Implementation of the DES encryption algorithm
 - [Code](https://github.com/mbcruz96/DES/tree/main)
+  
 **MCTL template library**
 - Created the Michael Cruz template library, which implements some of the data structures available in the C++ std library.
 - [Code](https://github.com/mbcruz96/MCTL.git)
