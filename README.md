@@ -5,20 +5,20 @@
 **Comparative Study of Facial Detection Algorithms**
 - Researched Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG facial detection algorithms in efforts to compare their performances.
 - Implemented all algorithms in three mediums: photos, videos, and live-stream videos.
-- Goal: To determine the performance of currently used facial detection algorithms, highlighting the benefits and limitations of each in different situations
+- **Goal:** To determine the performance of currently used facial detection algorithms, highlighting the benefits and limitations of each in different situations
 - [Research](https://github.com/mbcruz96/Facial-detection)
 
 **Clinical Report Generator**
 - Designed a Transformer model with the following architecture: a multimodal CNN encoder and a generative LSTM decoder to generate clinical reports based off individual patient diagnostic information.
 - After training multiple models, the model weights were averaged using Federated Learning to create a global model and propagated the weights back to each individual model.
 - By utilizing a federated learning, the model could be upscaled so that hospitals could use the model to generate clinical reports without sharing private patient information across hospitals.
-- Goal: To implement a model that would allow medical data to be used in deep learning models without breaching constraints imposed by HIPPA
+- **Goal:** To implement a model that would allow medical data to be used in deep learning models without breaching constraints imposed by HIPPA
 - [Research](https://github.com/mbcruz96/Clinical-Report-Generation.git)
 
 **Optimal Hardware Implementation of Multi-Level Cache Based on Software Simulations**
 - Research centered around designing various multi-level cache software implementations with various architectures and measuring each implementation on how it impacts power consumption, timing, and utilization on a benchmark FPGA
 - The cache simulators determined the optimal miss rate which was implemented in hardware via Verilog, SystemVerilog, and Vivado
-- Goal: Determine the hardware benefits and drawbacks of high-performance multi-level cache designs as well as finding the optimal design architecture
+- **Goal:** Determine the hardware benefits and drawbacks of high-performance multi-level cache designs as well as finding the optimal design architecture
 - [Research](https://github.com/mbcruz96/Cache-Simulator)
   
 # Projects
