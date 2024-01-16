@@ -18,7 +18,8 @@
 **Optimal Hardware Implementation of Multi-Level Cache Based on Software Simulation**
 - Research centered around designing various multi-level cache software implementations with various architectures and measuring each implementation on how it impacts power consumption, timing, and utilization on a benchmark FPGA
 - The cache simulators determined the optimal miss rate which was implemented in hardware via Verilog, SystemVerilog, and Vivado
-- Goal: Determine the hardware benefits and drawbacks of high-performance multi-level cache designs as well as finding the optimal design architecture 
+- Goal: Determine the hardware benefits and drawbacks of high-performance multi-level cache designs as well as finding the optimal design architecture
+- [Research](https://github.com/mbcruz96/Cache-Simulator)
   
 # Projects
 **Canny Edge Detector**
@@ -39,12 +40,25 @@
 - The intensity which yields the highest variance amongst the distributions is chosen as the thresholding value used to alter the original image.
 - [Code](https://github.com/mbcruz96/Otsu)
 
+**Comparative Convulutional Neural Network Designs**
+- Using the MNIST dataset, multiple convolutional neural network architectures were designed to see how different architectures affect the quality of the model
+- Through command line interface, five different models can be selected with different numbers of layers, activations, and hyperparameters. Each model will train and accuracy and precision are calculated and displayed for each iteration.
+- [Code](https://github.com/mbcruz96/ConvNet)
+
 **Generative Shakespearian Speech Model**
 - NLP model that generates text in the style of Shakesperian english
 - The model is pretrained on a corpus containing some of Shakespear's work
 - Using a seed, the model generatively creates sentances reminiscent of old English vernacular
 - [Code](https://github.com/mbcruz96/LSTM/blob/main/TextGenerator.ipynb)
+
+**Sentiment Analysis**
+- Designed multiple sentiment classifier architectures.
+- Using different activation functions as well as different numbers of layers the optimal model was determined which accomplishes the task of sentiment analysis.
+- [Code](https://github.com/mbcruz96/Neural-Network)
   
+**DES Encryption**
+- Implementation of the DES encryption algorithm
+- [Code](https://github.com/mbcruz96/DES/tree/main)
 **MCTL template library**
 - Created the Michael Cruz template library, which implements some of the data structures available in the C++ std library.
 - [Code](https://github.com/mbcruz96/MCTL.git)
