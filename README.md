@@ -49,9 +49,10 @@
 - [CIFAR-10 Code](https://github.com/mbcruz96/ConvNet/tree/main/CIFAR-10)
 - [Code](https://github.com/mbcruz96/ConvNet)
 
-**Fine-tuned Transformer**
+**Fine-tuning vs Linear Probing Transformers**
 - The BERT tranformer model was fine-tuned for the down-stream task of sentiment classification.
-- Using the IMDB dataset, all previous model layer were frozen, and a classification layer was added on top to accomplish classification.
+- Another classifier was trained on the same transformer using linear probing so that the previous model parameters were not trained with the new classifier.
+- The classification precision and accuracy of both models were compared.
 - [Code](https://github.com/mbcruz96/Fine-Tune-BERT)
 
 **Generative Shakespearian Speech Model**
