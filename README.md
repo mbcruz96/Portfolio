@@ -7,6 +7,12 @@
 - A.A, General Degree | Eastern Florida State College (_May 2015_)
 
 ## Research
+<table>
+  <tr>
+    <td>Pic</td>
+    <td>Proj name</td>
+  </tr>
+</table>
 **Comparative Study of Facial Detection Algorithms**
 - ![MTCNN facial detection output](assets/Img/Face detection.png)
 - Researched Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG facial detection algorithms in efforts to compare their performances.
