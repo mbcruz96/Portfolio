@@ -1,7 +1,12 @@
 # Technical Skills
 ### Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence, C++, Python, C, C#, Java, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
 
-# Research
+## Education 
+- M.S., Computer Science | University of Central Florida (_May 2024_)
+- B.S, Computer Science with a minor in Psychology | Florida State University (_December 2021_)
+- A.A, General Degree | Eastern Florida State College (_May 2015_)
+
+## Research
 **Comparative Study of Facial Detection Algorithms**
 - Researched Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG facial detection algorithms in efforts to compare their performances.
 - Implemented all algorithms in three mediums: photos, videos, and live-stream videos.
