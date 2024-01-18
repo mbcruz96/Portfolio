@@ -1,7 +1,3 @@
-# Software Engineer
-# Data Scientist
-# Network Security Analyst/Pentester
-
 ## Technical Skills
 ### Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence, C++, Python, C, C#, Java, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
 
@@ -17,7 +13,7 @@
 - **Goal:** To determine the performance of currently used facial detection algorithms, highlighting the benefits and limitations of each in different situations
 - [Research](https://github.com/mbcruz96/Facial-detection)
 
-**Clinical Report Generator**
+**Clinical Report Generator using Federated Learning**
 - Designed a Transformer model with the following architecture: a multimodal CNN encoder and a generative LSTM decoder to generate clinical reports based off individual patient diagnostic information.
 - After training multiple models, the model weights were averaged using Federated Learning to create a global model and propagated the weights back to each individual model.
 - By utilizing a federated learning, the model could be upscaled so that hospitals could use the model to generate clinical reports without sharing private patient information across hospitals.
