@@ -1,4 +1,8 @@
-# Technical Skills
+# Software Engineer
+# Data Scientist
+# Network Security Analyst/Pentester
+
+## Technical Skills
 ### Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence, C++, Python, C, C#, Java, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
 
 ## Education 
@@ -26,7 +30,7 @@
 - **Goal:** Determine the hardware benefits and drawbacks of high-performance multi-level cache designs as well as finding the optimal design architecture
 - [Research](https://github.com/mbcruz96/Cache-Simulator)
   
-# Projects
+## Projects
 **Canny Edge Detector**
 - Implemented the Canny Edge Detector
 - Images are smoothed using a Gaussian filter and then their orientations and magnitudes are calculated.
