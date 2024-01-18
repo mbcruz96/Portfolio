@@ -9,8 +9,8 @@
 ## Research
 <table>
   <tr>
-    <td>Pic</td>
-    <td>Proj name</td>
+    <td><img src="assets/Img/Face detection.png" alt="Federated Learning" width=252px height=164px></td>
+    <td><b>Comparative Study of Facial Detection Algorithms</b></td>
   </tr>
 </table>
 **Comparative Study of Facial Detection Algorithms**
