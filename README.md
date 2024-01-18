@@ -7,7 +7,7 @@
 - A.A, General Degree | Eastern Florida State College (_May 2015_)
 
 ## Research
-| ![Federated Learning diagram](assets/federated learning.png) | **Comparative Study of Facial Detection Algorithms** |
+![Federated Learning diagram](assets/federated learning.png) | **Comparative Study of Facial Detection Algorithms** 
 
 **Comparative Study of Facial Detection Algorithms**
 - Researched Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG facial detection algorithms in efforts to compare their performances.
