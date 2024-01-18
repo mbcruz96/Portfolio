@@ -7,6 +7,8 @@
 - A.A, General Degree | Eastern Florida State College (_May 2015_)
 
 ## Research
+| :Research:                                                 | :Project Title:                                      |
+| ---------------------------------------------------------- | ---------------------------------------------------- |
 | ![Federated Learning diagram](assets/Img/fed learning.png) | **Comparative Study of Facial Detection Algorithms** |
 
 **Comparative Study of Facial Detection Algorithms**
