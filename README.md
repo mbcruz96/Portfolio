@@ -11,14 +11,14 @@
   <tr>
     <td><img src="assets/Img/Face detection.png" alt="Federated Learning" width=252px height=164px></td>
     <td>
-      <p>
-        <b>Comparative Study of Facial Detection Algorithms</b>
-        <br>
-        <center>
+      <div style="text-align:center">
+        <p>
+          <b>Comparative Study of Facial Detection Algorithms</b>
+          <br>
           <a href="https://github.com/mbcruz96/Facial-detection/blob/main/Report.docx">docx</a>
           <a href="https://github.com/mbcruz96/Facial-detection">Code</a>
-        </center>
-      </p>
+         </p>
+       </div>
     </td>
   </tr>
 </table>
