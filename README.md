@@ -9,13 +9,35 @@
 ## Research
 <table>
   <tr>
-    <td><img src="assets/Img/Face detection.png" alt="Federated Learning" width=252px height=164px></td>
+    <td><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=223px height=208px></td>
     <td>
       <div style="text-align:center;justify-content:center;">
         <b>Comparative Study of Facial Detection Algorithms</b>
         <br>
-        <a href="https://github.com/mbcruz96/Facial-detection/blob/main/Report.docx">docx</a>
-        <a href="https://github.com/mbcruz96/Facial-detection">Code</a>
+        <a href="https://github.com/mbcruz96/Facial-detection/blob/main/Report.docx">[DOCX]</a>
+        <a href="https://github.com/mbcruz96/Facial-detection">[CODE]</a>
+       </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/Img/federated learning.png" alt="Federated Learning" width=252px height=164px></td>
+    <td>
+      <div style="text-align:center;justify-content:center;">
+        <b>Clinical Report Generator using Federated Learning</b>
+        <br>
+        <a href="https://github.com/mbcruz96/Clinical-Report-Generation/blob/main/Report.pdf">[PDF]</a>
+        <a href="https://github.com/mbcruz96/Clinical-Report-Generation">{CODE}</a>
+       </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/Img/Cache engine.png" alt="Cache engine" width=317px height=144px></td>
+    <td>
+      <div style="text-align:center;justify-content:center;">
+        <b>Optimal Hardware Implementation of Multi-Level Cache Based on Software Simulations</b>
+        <br>
+        <a href="https://github.com/mbcruz96/Cache-Simulator/blob/main/Report.docx">[DOCX]</a>
+        <a href="https://github.com/mbcruz96/Cache">[CODE]</a>
        </div>
     </td>
   </tr>
