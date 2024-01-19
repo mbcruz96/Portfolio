@@ -20,7 +20,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="assets/Img/federated learning.png" alt="Federated Learning" width=252px height=164px></td>
+    <td><img src="assets/Img/fed learning.png" alt="Federated Learning" width=252px height=164px></td>
     <td>
       <div style="text-align:center;justify-content:center;">
         <b>Clinical Report Generator using Federated Learning</b>
