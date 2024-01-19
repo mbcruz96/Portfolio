@@ -9,7 +9,9 @@
 ## Research
 <table>
   <tr>
-    <td><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
+    <div style="text-align:center;justify-content:center;">
+      <td><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
+    </div>
     <td>
       <div style="text-align:center;justify-content:center;">
         <b>Comparative Study of Facial Detection Algorithms</b>
@@ -20,7 +22,9 @@
     </td>
   </tr>
   <tr>
-    <td style="margin:auto"><img src="assets/Img/fed learning.png" alt="Federated Learning" width=126px height=82px></td>
+    <div style="text-align:center;justify-content:center;">
+      <td style="margin:auto"><img src="assets/Img/fed learning.png" alt="Federated Learning" width=126px height=82px></td>
+    </div>
     <td>
       <div style="text-align:center;justify-content:center;">
         <b>Clinical Report Generative Languge Model using Federated Learning</b>
@@ -31,7 +35,9 @@
     </td>
   </tr>
   <tr>
-    <td><img src="assets/Img/Cache engine.png" alt="Cache engine" width=159px height=72px></td>
+    <div style="text-align:center;justify-content:center;">
+      <td><img src="assets/Img/Cache engine.png" alt="Cache engine" width=159px height=72px></td>
+    </div>
     <td>
       <div style="text-align:center;justify-content:center;">
         <b>Optimal Hardware Implementation of Multi-Level Cache Based on Software Simulations</b>
