@@ -8,7 +8,7 @@
 
 ## Research
 <table border=1px color="black">
-  <tr>
+  <tr border=1px color="black">
     <div style="text-align:center;justify-content:center;">
       <td border=1px color="black"><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
     </div>
@@ -21,7 +21,7 @@
        </div>
     </td>
   </tr>
-  <tr>
+  <tr border=1px color="black">
     <div style="text-align:center;justify-content:center;">
       <td border=1px color="black"><img src="assets/Img/fed learning.png" alt="Federated Learning" width=126px height=82px></td>
     </div>
@@ -34,7 +34,7 @@
        </div>
     </td>
   </tr>
-  <tr>
+  <tr border=1px color="black">
     <div style="text-align:center;justify-content:center;">
       <td border=1px color="black"><img src="assets/Img/Cache engine.png" alt="Cache engine" width=159px height=72px></td>
     </div>
