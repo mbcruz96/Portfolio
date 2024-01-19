@@ -7,12 +7,12 @@
 - A.A, General Degree | Eastern Florida State College (_May 2015_)
 
 ## Research
-<table>
+<table border=1px color="black">
   <tr>
     <div style="text-align:center;justify-content:center;">
-      <td><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
+      <td border=1px color="black"><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
     </div>
-    <td>
+    <td border=1px color="black">
       <div style="text-align:center;justify-content:center;">
         <b>Comparative Study of Facial Detection Algorithms</b>
         <br>
@@ -23,9 +23,9 @@
   </tr>
   <tr>
     <div style="text-align:center;justify-content:center;">
-      <td style="margin:auto"><img src="assets/Img/fed learning.png" alt="Federated Learning" width=126px height=82px></td>
+      <td border=1px color="black"><img src="assets/Img/fed learning.png" alt="Federated Learning" width=126px height=82px></td>
     </div>
-    <td>
+    <td border=1px color="black">
       <div style="text-align:center;justify-content:center;">
         <b>Clinical Report Generative Languge Model using Federated Learning</b>
         <br>
@@ -36,9 +36,9 @@
   </tr>
   <tr>
     <div style="text-align:center;justify-content:center;">
-      <td><img src="assets/Img/Cache engine.png" alt="Cache engine" width=159px height=72px></td>
+      <td border=1px color="black"><img src="assets/Img/Cache engine.png" alt="Cache engine" width=159px height=72px></td>
     </div>
-    <td>
+    <td border=1px color="black">
       <div style="text-align:center;justify-content:center;">
         <b>Optimal Hardware Implementation of Multi-Level Cache Based on Software Simulations</b>
         <br>
