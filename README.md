@@ -14,8 +14,10 @@
       <div style="text-align:center">
         <b>Comparative Study of Facial Detection Algorithms</b>
         <br>
-        <a href="https://github.com/mbcruz96/Facial-detection/blob/main/Report.docx">docx</a>
-        <a href="https://github.com/mbcruz96/Facial-detection">Code</a>
+        <center>
+          <a href="https://github.com/mbcruz96/Facial-detection/blob/main/Report.docx">docx</a>
+          <a href="https://github.com/mbcruz96/Facial-detection">Code</a>
+        </center>
        </div>
     </td>
   </tr>
