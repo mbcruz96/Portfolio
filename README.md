@@ -23,7 +23,7 @@
     <td><img src="assets/Img/fed learning.png" alt="Federated Learning" width=252px height=164px></td>
     <td>
       <div style="text-align:center;justify-content:center;">
-        <b>Clinical Report Generator using Federated Learning</b>
+        <b>Clinical Report Generative Languge Model using Federated Learning</b>
         <br>
         <a href="https://github.com/mbcruz96/Clinical-Report-Generation/blob/main/Report.pdf">[PDF]</a>
         <a href="https://github.com/mbcruz96/Clinical-Report-Generation">{CODE}</a>
