@@ -9,7 +9,7 @@
 ## Research
 <table>
   <tr>
-    <td><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=223px height=208px></td>
+    <td><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
     <td>
       <div style="text-align:center;justify-content:center;">
         <b>Comparative Study of Facial Detection Algorithms</b>
@@ -31,7 +31,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="assets/Img/Cache engine.png" alt="Cache engine" width=317px height=144px></td>
+    <td><img src="assets/Img/Cache engine.png" alt="Cache engine" width=159px height=72px></td>
     <td>
       <div style="text-align:center;justify-content:center;">
         <b>Optimal Hardware Implementation of Multi-Level Cache Based on Software Simulations</b>
