@@ -7,7 +7,7 @@
 - A.A, General Degree | Eastern Florida State College (_May 2015_)
 
 ## Research
-<table border=1px color="black">
+<table>
   <tr>
     <div style="text-align:center;justify-content:center;">
       <td border=1px color="black"><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
