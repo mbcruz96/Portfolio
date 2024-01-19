@@ -20,7 +20,7 @@
     </td>
   </tr>
   <tr>
-    <td style="margin:auto"><img src="assets/Img/fed learning.png" alt="Federated Learning" width=252px height=164px></td>
+    <td style="margin:auto"><img src="assets/Img/fed learning.png" alt="Federated Learning" width=126px height=82px></td>
     <td>
       <div style="text-align:center;justify-content:center;">
         <b>Clinical Report Generative Languge Model using Federated Learning</b>
