@@ -7,24 +7,15 @@
 - A.A, General Degree | Eastern Florida State College (_May 2015_)
 
 ## Research
-<style>
-  td {
-    text-align:center;
-    justify-content:center;
-    align-items:center;
-  }
-</style>
 <table>
   <tr>
     <td><img src="assets/Img/Face detection.png" alt="Federated Learning" width=252px height=164px></td>
     <td>
-      <div style="text-align:center">
+      <div style="text-align:center;justify-content:center;">
         <b>Comparative Study of Facial Detection Algorithms</b>
         <br>
-        <center>
           <a href="https://github.com/mbcruz96/Facial-detection/blob/main/Report.docx">docx</a>
           <a href="https://github.com/mbcruz96/Facial-detection">Code</a>
-        </center>
        </div>
     </td>
   </tr>
