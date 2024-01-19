@@ -7,6 +7,13 @@
 - A.A, General Degree | Eastern Florida State College (_May 2015_)
 
 ## Research
+<style>
+  td {
+    text-align:center;
+    justify-content:center;
+    align-items:center;
+  }
+</style>
 <table>
   <tr>
     <td><img src="assets/Img/Face detection.png" alt="Federated Learning" width=252px height=164px></td>
