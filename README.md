@@ -26,7 +26,7 @@
         <b>Clinical Report Generative Languge Model using Federated Learning</b>
         <br>
         <a href="https://github.com/mbcruz96/Clinical-Report-Generation/blob/main/Report.pdf">[PDF]</a>
-        <a href="https://github.com/mbcruz96/Clinical-Report-Generation">{CODE}</a>
+        <a href="https://github.com/mbcruz96/Clinical-Report-Generation">[CODE]</a>
        </div>
     </td>
   </tr>
