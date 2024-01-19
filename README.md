@@ -10,9 +10,9 @@
 <table>
   <tr>
     <div style="text-align:center;justify-content:center;">
-      <td border=1px color="black"><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
+      <td><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
     </div>
-    <td border=1px color="black">
+    <td>
       <div style="text-align:center;justify-content:center;">
         <b>Comparative Study of Facial Detection Algorithms</b>
         <br>
