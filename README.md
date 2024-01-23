@@ -77,7 +77,7 @@
 - [CIFAR-10 Code](https://github.com/mbcruz96/ConvNet/tree/main/CIFAR-10)
 - [Code](https://github.com/mbcruz96/ConvNet)
 
-**Fine-tuning vs Linear Probing Transformers**
+**Transfer Learning with Transformers**
 - The BERT tranformer model was fine-tuned for the down-stream task of sentiment classification.
 - Another classifier was trained on the same transformer using linear probing so that the previous model parameters were not trained with the new classifier.
 - The classification precision and accuracy of both models were compared.
