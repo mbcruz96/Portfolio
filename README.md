@@ -50,6 +50,13 @@
 </table>
 
 ## Projects
+**English-to-Spanish Transformer from scratch**
+- Original implementation of the paper "Attention is All You Need" from scratch using the original architecture from the experiment along with personally selected learning hyperparameters. 
+- The model was trained for the downstream task of text-to-text language translation, specifically from english to spanish.
+- Most of the hyperparameters of the model architecture are identical to the specifications of the paper including.
+- Dataset: opus_books en-es 93k
+- [Code](https://github.com/mbcruz96/English-to-Spanish-Transformer)
+  
 **Canny Edge Detector**
 - Implemented the Canny Edge Detector
 - Images are smoothed using a Gaussian filter and then their orientations and magnitudes are calculated.
