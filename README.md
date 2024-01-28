@@ -51,9 +51,9 @@
 
 ## Projects
 **English-to-Spanish Transformer from scratch**
-- Original implementation of the paper "Attention is All You Need" from scratch using the specified architecture from the experiment along with personally selected learning hyperparameters. 
-- The model was trained for the downstream task of text-to-text language translation, specifically translation from english to spanish.
-- Most of the hyperparameters of the model architecture are identical to the specifications of the paper.
+- Implementation of the paper "Attention is All You Need" from scratch using the specified architecture from the original experiment with hardware and task specific learning configurations. 
+- The Transformer was configured for text-to-text related tasks, specifically language translation from english to spanish.
+-  Hyperparameters of the model architecture are similar to the specifications of the paper.
 - Dataset: opus_books en-es 93k
 - [Code](https://github.com/mbcruz96/English-to-Spanish-Transformer)
   
