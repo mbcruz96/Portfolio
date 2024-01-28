@@ -51,7 +51,7 @@
 
 ## Projects
 **English-to-Spanish Transformer from scratch**
-- Implementation of the paper "Attention is All You Need" from scratch using the specified architecture from the original experiment with hardware and task specific learning configurations. 
+- Implementation of the paper _Attention is All You Need_ from scratch using the specified architecture from the original experiment with hardware and task specific learning configurations. 
 - The Transformer was configured for text-to-text related tasks, specifically language translation from english to spanish.
 -  Hyperparameters of the model architecture are similar to the specifications of the paper.
 - Dataset: opus_books en-es 93k
