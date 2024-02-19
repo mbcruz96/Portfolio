@@ -75,6 +75,12 @@
 - The intensity which yields the highest variance amongst the distributions is chosen as the thresholding value used to alter the original image.
 - [Code](https://github.com/mbcruz96/Otsu)
 
+**Neural Network from Scratch**
+- Implemented from scratch using only numpy, without any torch or tensorflow fucntions.
+- using a two class version of the CIFAR-10 dataset
+- Binary classification task using binary cross entropy and mini-batch stochastic gradient descent
+- [Code](https://github.com/mbcruz96/Neural-Network)
+  
 **Comparative Convolutional Neural Network Designs**
 - Using the MNIST dataset, multiple convolutional neural network architectures were designed to see how different architectures affect the quality of the model.
 - Through command line interface, five different models can be selected with different numbers of layers, activations, and hyperparameters. Each model will train and accuracy and precision are calculated and displayed for each iteration.
