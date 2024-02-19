@@ -99,7 +99,7 @@
 **Sentiment Analysis**
 - Designed multiple sentiment classifier architectures.
 - Using different activation functions as well as different numbers of layers the optimal model was determined which accomplishes the task of sentiment analysis.
-- [Code](https://github.com/mbcruz96/Neural-Network)
+- [Code](https://github.com/mbcruz96/Sentiment-Analysis)
 
 **Topic Modeling**
 - Comparatively studied the best methods to accomplish the NLP task of topic modeling.
