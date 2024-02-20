@@ -7,8 +7,8 @@
 - A.A, General Degree | Eastern Florida State College (_May 2015_)
 
 ## Research
-<table border=1px color="black>
-   <tr border=1px color="black" style="width:100%">
+<table border=1px color="black" style="width:100%">
+   <tr border=1px color="black">
       <div style="text-align:center;justify-content:center;">
          <td border=1px color="black" style="width:25%"><img src="assets/Img/BLIP.png" alt="BLIP" width=175px height=68px></td>
       </div>
@@ -21,7 +21,7 @@
       </div>
     </td>
   </tr>
-  <tr border=1px color="black" style="width:100%">
+  <tr border=1px color="black">
     <div style="text-align:center;justify-content:center;">
       <td border=1px color="black" style="width:25%"><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
     </div>
