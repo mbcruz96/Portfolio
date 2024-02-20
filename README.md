@@ -8,6 +8,19 @@
 
 ## Research
 <table border=1px color="black">
+   <tr border=1px color="black">
+    <div style="text-align:center;justify-content:center;">
+      <td border=1px color="black"><img src="assets/Img/BLIP.png" alt="BLIP" width=175px height=68px></td>
+    </div>
+    <td border=1px color="black">
+      <div style="text-align:center;justify-content:center;">
+        <b>BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation</b>
+        <br>
+        <a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/3_BLIP_Final.pdf">[PDF]</a>
+        <a href="https://www.youtube.com/watch?v=6lr7914I9Wk">[Presentation]</a>
+       </div>
+    </td>
+  </tr>
   <tr border=1px color="black">
     <div style="text-align:center;justify-content:center;">
       <td border=1px color="black"><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
