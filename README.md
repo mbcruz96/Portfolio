@@ -7,21 +7,21 @@
 - A.A, General Degree | Eastern Florida State College (_May 2015_)
 
 ## Research
-<table border=1px color="black style="width:100%">
-   <tr border=1px color="black">
-    <div style="text-align:center;justify-content:center;">
-      <td border=1px color="black" style="width:25%"><img src="assets/Img/BLIP.png" alt="BLIP" width=175px height=68px></td>
-    </div>
+<table border=1px color="black>
+   <tr border=1px color="black" style="width:100%">
+      <div style="text-align:center;justify-content:center;">
+         <td border=1px color="black" style="width:25%"><img src="assets/Img/BLIP.png" alt="BLIP" width=175px height=68px></td>
+      </div>
     <td border=1px color="black" style="width:75%">
       <div style="text-align:center;justify-content:center;">
         <b>BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation</b>
         <br>
         <a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/3_BLIP_Final.pdf">[PDF]</a>
         <a href="https://www.youtube.com/watch?v=6lr7914I9Wk">[Presentation]</a>
-       </div>
+      </div>
     </td>
   </tr>
-  <tr border=1px color="black">
+  <tr border=1px color="black" style="width:100%">
     <div style="text-align:center;justify-content:center;">
       <td border=1px color="black" style="width:25%"><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
     </div>
@@ -31,7 +31,7 @@
         <br>
         <a href="https://github.com/mbcruz96/Facial-detection/blob/main/Report.docx">[DOCX]</a>
         <a href="https://github.com/mbcruz96/Facial-detection">[CODE]</a>
-       </div>
+      </div>
     </td>
   </tr>
   <tr border=1px color="black">
@@ -44,7 +44,7 @@
         <br>
         <a href="https://github.com/mbcruz96/Clinical-Report-Generation/blob/main/Report.pdf">[PDF]</a>
         <a href="https://github.com/mbcruz96/Clinical-Report-Generation">[CODE]</a>
-       </div>
+      </div>
     </td>
   </tr>
   <tr border=1px color="black">
@@ -57,7 +57,7 @@
         <br>
         <a href="https://github.com/mbcruz96/Cache-Simulator/blob/main/Report.docx">[DOCX]</a>
         <a href="https://github.com/mbcruz96/Cache">[CODE]</a>
-       </div>
+      </div>
     </td>
   </tr>
 </table>
