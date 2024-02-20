@@ -89,9 +89,10 @@
 - [Code](https://github.com/mbcruz96/Otsu)
 
 **Neural Network from Scratch**
-- Implemented from scratch using only numpy, without any torch or tensorflow fucntions.
-- using a two class version of the CIFAR-10 dataset
-- Binary classification task using binary cross entropy and mini-batch stochastic gradient descent
+- Implemented a two layer nerual network including forward and backward propagation from scratch only using the numpy library.
+- No torch or tensorflow library fucntions were utilized.
+- Dataset: two class version of the CIFAR-10 dataset
+- Binary classification task using binary cross entropy and momentum based mini-batch stochastic gradient descent
 - [Code](https://github.com/mbcruz96/Neural-Network)
   
 **Comparative Convolutional Neural Network Designs**
