@@ -10,7 +10,7 @@
 <table border=1px color="black">
    <tr border=1px color="black">
     <div style="text-align:center;justify-content:center;">
-      <td border=1px color="black"><img src="assets/Img/BLIP.png" alt="BLIP" width=175px height=68px></td>
+      <td border=1px color="black" style="width:25%"><img src="assets/Img/BLIP.png" alt="BLIP" width=175px height=68px></td>
     </div>
     <td border=1px color="black">
       <div style="text-align:center;justify-content:center;">
@@ -23,7 +23,7 @@
   </tr>
   <tr border=1px color="black">
     <div style="text-align:center;justify-content:center;">
-      <td border=1px color="black"><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
+      <td border=1px color="black" style="width:25%"><img src="assets/Img/Face detection.png" alt="MTCNN detection" width=112px height=104px></td>
     </div>
     <td border=1px color="black">
       <div style="text-align:center;justify-content:center;">
@@ -36,7 +36,7 @@
   </tr>
   <tr border=1px color="black">
     <div style="text-align:center;justify-content:center;">
-      <td border=1px color="black"><img src="assets/Img/fed learning.png" alt="Federated Learning" width=126px height=82px></td>
+      <td border=1px color="black" style="width:25%"><img src="assets/Img/fed learning.png" alt="Federated Learning" width=126px height=82px></td>
     </div>
     <td border=1px color="black">
       <div style="text-align:center;justify-content:center;">
