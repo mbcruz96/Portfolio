@@ -77,6 +77,13 @@
 - Using hysterisis thresholding, dominant edge pixels are discovered using eight way connectivity. 
 - [Code](https://github.com/mbcruz96/Canny-Edge-Detection.git)
 
+**BLIP2**
+- Exploring the functionality of BLIP2 VLP model and its different inferencing methods
+- Inferencing types: image-text retrieval, image captioning, VQA
+- Evaluated the metrics in the BLIP2 paper
+- Dataset: COCO, MSVDQA
+- [Code](https://github.com/mbcruz96/BLIP2.git)
+
 **Digit AutoEncoder**
 - Using the MNIST dataset, an autoencoder model was implemented that predicts what digit a photo contains
 - The model encodes the image into a latent space and decodes a representation of the original image with upsampling
