@@ -112,15 +112,15 @@
 - [Code](https://github.com/mbcruz96/ConvNet)
 
 **Transfer Learning with Transformers**
-- The BERT tranformer model was fine-tuned for the down-stream task of sentiment classification.
+- The BERT transformer model was fine-tuned for the down-stream task of sentiment classification.
 - Another classifier was trained on the same transformer using linear probing so that the previous model parameters were not trained with the new classifier.
 - The classification precision and accuracy of both models were compared.
 - [Code](https://github.com/mbcruz96/Fine-Tune-BERT)
 
 **Generative Shakespearian Speech Model**
-- NLP model that generates text in the style of Shakesperian english
+- NLP model that generates text in the style of Shakespearian english
 - The model is pretrained on a corpus containing some of Shakespear's work
-- Using a seed, the model generatively creates sentances reminiscent of old English vernacular
+- Using a seed, the model generatively creates sentences reminiscent of old English vernacular
 - [Code](https://github.com/mbcruz96/LSTM/blob/main/TextGenerator.ipynb)
 
 **Sentiment Analysis**
