@@ -10,6 +10,19 @@
 <table border=1px color="black" style="width:100%">
    <tr border=1px color="black">
       <div style="text-align:center;justify-content:center;">
+         <td border=1px color="black" style="width:25%"><img src="assets/Img/cm3leon.png" alt="BLIP" width=323px height=184px></td>
+      </div>
+    <td border=1px color="black" style="width:75%">
+      <div style="text-align:center;justify-content:center;">
+        <b>Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning</b>
+        <br>
+        <a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/12_Scaling-Autoregressive-Multi-Modal-Models.pdf">[PDF]</a>
+        <a href="https://www.youtube.com/watch?v=pGEL9QRhsAY">[Presentation]</a>
+      </div>
+    </td>
+  </tr>
+   <tr border=1px color="black">
+      <div style="text-align:center;justify-content:center;">
          <td border=1px color="black" style="width:25%"><img src="assets/Img/BLIP.png" alt="BLIP" width=175px height=68px></td>
       </div>
     <td border=1px color="black" style="width:75%">
