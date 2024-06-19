@@ -16,7 +16,7 @@
       <div style="text-align:center;justify-content:center;">
         <b>Bridging the Gap: Adapting Video Langauge Models for Egocentric Understanding</b>
         <br>
-        <a href="https://github.com/mbcruz96/Video-EC4/Report.pdf">[PDF]</a>
+        <a href="https://github.com/mbcruz96/Video-EC4/blob/main/Report.pdf">[PDF]</a>
         <a href="https://github.com/mbcruz96/Video-EC4">[Code]</a>
       </div>
     </td>
