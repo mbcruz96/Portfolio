@@ -10,7 +10,7 @@
 <table border=1px color="black" style="width:100%">
     <tr border=1px color="black">
       <div style="text-align:center;justify-content:center;">
-         <td border=1px color="black" style="width:25%"><img src="assets/Img/ego4d.jpg" alt="CM3Leon" width=154px height=87px></td>
+         <td border=1px color="black" style="width:25%"><img src="assets/Img/ego4d.jpg" alt="Video-EC4" width=154px height=87px></td>
       </div>
     <td border=1px color="black" style="width:75%">
       <div style="text-align:center;justify-content:center;">
