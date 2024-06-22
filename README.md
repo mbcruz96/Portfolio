@@ -156,14 +156,56 @@
     </details>
 </details>
 
+<details>
+<summary>Natural Langauge Processing</summary>
+<br>
+    <details>
+    <summary>English-to-Spanish Transformer</summary>
+    <ul>
+        <li>Implementation of the paper _Attention is All You Need_ from scratch using the specified architecture from the original experiment with hardware and task specific learning configurations.</li>
+        <li>The Transformer was configured for text-to-text related tasks, specifically language translation from english to spanish.</li>
+        <li>Hyperparameters of the model architecture are similar to the specifications of the paper.</li>
+        <li>Dataset: opus_books en-es 93k</li>
+        <li><a href="https://github.com/mbcruz96/English-to-Spanish-Transformer">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>Transfer Learning with Transformers</summary>
+    <ul>
+        <li>The BERT transformer model was fine-tuned for the down-stream task of sentiment classification.</li>
+        <li>Another classifier was trained on the same transformer using linear probing so that the previous model parameters were not trained with the new classifier.</li>
+        <li>The classification precision and accuracy of both models were compared.</li>
+        <li><a href="https://github.com/mbcruz96/Fine-Tune-BERT">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>Generative Shakespearian Speech Model</summary>
+    <ul>
+        <li>NLP model that generates text in the style of Shakespearian english.</li>
+        <li>The model is pretrained on a corpus containing some of Shakespear's work.</li>
+        <li>Using a seed, the model generatively creates sentences reminiscent of old English vernacular.</li>
+        <li><a href="https://github.com/mbcruz96/LSTM/blob/main/TextGenerator.ipynb">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>Sentiment Analysis</summary>
+    <ul>
+        <li>Designed multiple sentiment classifier architectures.</li>
+        <li>Using different activation functions as well as different numbers of layers the optimal model was determined which accomplishes the task of sentiment analysis.</li>
+        <li><a href="https://github.com/mbcruz96/Sentiment-Analysis">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>Topic Modeling</summary>
+    <ul>
+        <li>Comparatively studied the best methods to accomplish the NLP task of topic modeling.</li>
+        <li>Both bag-of-words and TF-IDF representations were used to create the models and their performances were compared.</li>
+        <li>An LSA model and an LDA model were created and the top 10 topics and top 20 words from each topic were determined and compared for accuracy.</li>
+        <li><a href="https://github.com/mbcruz96/topic-modeling">Code</a></li>
+    </ul>
+    </details>
+</details>
 
-**English-to-Spanish Transformer**
-- Implementation of the paper _Attention is All You Need_ from scratch using the specified architecture from the original experiment with hardware and task specific learning configurations. 
-- The Transformer was configured for text-to-text related tasks, specifically language translation from english to spanish.
-- Hyperparameters of the model architecture are similar to the specifications of the paper.
-- Dataset: opus_books en-es 93k
-- [Code](https://github.com/mbcruz96/English-to-Spanish-Transformer)
-  
 **Neural Network from Scratch**
 - Implemented a two layer nerual network including forward and backward propagation from scratch only using the numpy library.
 - No torch or tensorflow library fucntions were utilized.
@@ -171,28 +213,6 @@
 - Binary classification task using binary cross entropy and momentum based mini-batch stochastic gradient descent
 - [Code](https://github.com/mbcruz96/Neural-Network)
 
-**Transfer Learning with Transformers**
-- The BERT transformer model was fine-tuned for the down-stream task of sentiment classification.
-- Another classifier was trained on the same transformer using linear probing so that the previous model parameters were not trained with the new classifier.
-- The classification precision and accuracy of both models were compared.
-- [Code](https://github.com/mbcruz96/Fine-Tune-BERT)
-
-**Generative Shakespearian Speech Model**
-- NLP model that generates text in the style of Shakespearian english
-- The model is pretrained on a corpus containing some of Shakespear's work
-- Using a seed, the model generatively creates sentences reminiscent of old English vernacular
-- [Code](https://github.com/mbcruz96/LSTM/blob/main/TextGenerator.ipynb)
-
-**Sentiment Analysis**
-- Designed multiple sentiment classifier architectures.
-- Using different activation functions as well as different numbers of layers the optimal model was determined which accomplishes the task of sentiment analysis.
-- [Code](https://github.com/mbcruz96/Sentiment-Analysis)
-
-**Topic Modeling**
-- Comparatively studied the best methods to accomplish the NLP task of topic modeling.
-- Both bag-of-words and TF-IDF representations were used to create the models and their performances were compared.
-- An LSA model and an LDA model were created and the top 10 topics and top 20 words from each topic were determined and compared for accuracy.
-- [Code](https://github.com/mbcruz96/topic-modeling)
 
 **Artificially Intelligent Pac-Man Simulation**
 - Using Berkley's Pac-Man simulator, various artificial intelligence techniques were implemented to automate the video game Pac-Man effieciently.
