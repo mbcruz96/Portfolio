@@ -115,7 +115,7 @@
         <li><a href="https://github.com/mbcruz96/Canny-Edge-Detection.git">Code</a></li>
     </ul>
     </details>
-     <details>
+    <details>
     <summary>BLIP2</summary>
     <ul>
         <li>Exploring the functionality of BLIP2 VLP model and its different inferencing methods</li>
@@ -123,6 +123,35 @@
         <li>Evaluated the metrics in the BLIP2 paper</li>
         <li>Dataset: COCO, MSVDQA</li>
         <li><a href="https://github.com/mbcruz96/BLIP2.git">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>Generative Digit AutoEncoder</summary>
+    <ul>
+        <li>Using the MNIST dataset, an autoencoder model was implemented that predicts what digit a photo contains</li>
+        <li>The model encodes the image into a latent space and decodes a representation of the original image with upsampling</li>
+        <li><a href="https://github.com/mbcruz96/AutoEncoder">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>Otsu Thresholding</summary>
+    <ul>
+        <li>Implemented the Otsu thresholding algorithm for binary image segmantation</li>
+        <li>This implementation iteratively uses each pixel intensity from 0-255 to calculate the intra class variance between the two distributions using the current iteration's pixel intensity as the seperating boundary of the distributions.</li>
+        <li>The intensity which yields the highest variance amongst the distributions is chosen as the thresholding value used to alter the original image.</li>
+        <li><a href="https://github.com/mbcruz96/Otsu">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>Comparative Convolutional Neural Network Designs</summary>
+    <ul>
+        <li>Using the MNIST dataset, multiple convolutional neural network architectures were designed to see how different architectures affect the quality of the model.</li>
+        <li>Through command line interface, five different models can be selected with different numbers of layers, activations, and hyperparameters. Each model will train and accuracy and precision are calculated and displayed for each iteration.</li>
+        <li><a href="https://github.com/mbcruz96/ConvNet/tree/main/MNIST">MNIST Code</a></li>
+        <li>Using the CIFAR-10 dataset, different hyperparameters were used in order to determine which hyperparameters affected the model's training the most.</li>
+        <li>Accuracy and precision were calculated and loss curves were graphed for the different configurations to find the optimal model architecture.</li>
+        <li><a href="https://github.com/mbcruz96/ConvNet/tree/main/CIFAR-10">CIFAR-10 Code</a></li>
+        <li><a href="https://github.com/mbcruz96/ConvNet">Code</a></li>
     </ul>
     </details>
 </details>
@@ -135,46 +164,12 @@
 - Dataset: opus_books en-es 93k
 - [Code](https://github.com/mbcruz96/English-to-Spanish-Transformer)
   
-**Canny Edge Detector**
-- Implemented the Canny Edge Detector
-- Images are smoothed using a Gaussian filter and then their orientations and magnitudes are calculated.
-- Non-maximum suppression is performed on the image pixels to discover true edge pixels.
-- Using hysterisis thresholding, dominant edge pixels are discovered using eight way connectivity. 
-- [Code](https://github.com/mbcruz96/Canny-Edge-Detection.git)
-
-**BLIP2**
-- Exploring the functionality of BLIP2 VLP model and its different inferencing methods
-- Inferencing types: image-text retrieval, image captioning, VQA
-- Evaluated the metrics in the BLIP2 paper
-- Dataset: COCO, MSVDQA
-- [Code](https://github.com/mbcruz96/BLIP2.git)
-
-**Generative Digit AutoEncoder**
-- Using the MNIST dataset, an autoencoder model was implemented that predicts what digit a photo contains
-- The model encodes the image into a latent space and decodes a representation of the original image with upsampling
-- [Code](https://github.com/mbcruz96/AutoEncoder)
-
-**Otsu Thresholding**
-- Implemented the Otsu thresholding algorithm for binary image segmantation
-- This implementation iteratively uses each pixel intensity from 0-255 to calculate the intra class variance between the two distributions using the current iteration's pixel intensity as the seperating boundary of the distributions.
-- The intensity which yields the highest variance amongst the distributions is chosen as the thresholding value used to alter the original image.
-- [Code](https://github.com/mbcruz96/Otsu)
-
 **Neural Network from Scratch**
 - Implemented a two layer nerual network including forward and backward propagation from scratch only using the numpy library.
 - No torch or tensorflow library fucntions were utilized.
 - Dataset: two class version of the CIFAR-10 dataset
 - Binary classification task using binary cross entropy and momentum based mini-batch stochastic gradient descent
 - [Code](https://github.com/mbcruz96/Neural-Network)
-  
-**Comparative Convolutional Neural Network Designs**
-- Using the MNIST dataset, multiple convolutional neural network architectures were designed to see how different architectures affect the quality of the model.
-- Through command line interface, five different models can be selected with different numbers of layers, activations, and hyperparameters. Each model will train and accuracy and precision are calculated and displayed for each iteration.
-- [MNIST Code](https://github.com/mbcruz96/ConvNet/tree/main/MNIST)
-- Using the CIFAR-10 dataset, different hyperparameters were used in order to determine which hyperparameters affected the model's training the most.
-- Accuracy and precision were calculated and loss curves were graphed for the different configurations to find the optimal model architecture.
-- [CIFAR-10 Code](https://github.com/mbcruz96/ConvNet/tree/main/CIFAR-10)
-- [Code](https://github.com/mbcruz96/ConvNet)
 
 **Transfer Learning with Transformers**
 - The BERT transformer model was fine-tuned for the down-stream task of sentiment classification.
