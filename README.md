@@ -102,7 +102,11 @@
 </table>
 
 ## Projects
-<button type="button" class="expand">Computer Vision</button>
+<details>
+<summary>Computer Vision</summary>
+<br>
+This is how you dropdown.
+</details>
 **English-to-Spanish Transformer**
 - Implementation of the paper _Attention is All You Need_ from scratch using the specified architecture from the original experiment with hardware and task specific learning configurations. 
 - The Transformer was configured for text-to-text related tasks, specifically language translation from english to spanish.
@@ -208,21 +212,3 @@
 **MCTL template library**
 - Created the Michael Cruz template library, which implements some of the data structures available in the C++ std library.
 - [Code](https://github.com/mbcruz96/MCTL.git)
-
-<script>
-var exp = document.getElementsByClassName("expand");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  exp[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script> 
-  
