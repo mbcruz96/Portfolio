@@ -105,12 +105,23 @@
 <details>
 <summary>Computer Vision</summary>
 <br>
-This is how you dropdown.
+    <details>
+    <summary>Canny Edge Detector</summary>
+    <ul>
+        <li>Implemented the Canny Edge Detector</li>
+        <li>Images are smoothed using a Gaussian filter and then their orientations and magnitudes are calculated.</li>
+        <li>Non-maximum suppression is performed on the image pixels to discover true edge pixels.</li>
+        <li>Using hysterisis thresholding, dominant edge pixels are discovered using eight way connectivity.</li>
+        <li><a href="https://github.com/mbcruz96/Canny-Edge-Detection.git">Code</a></li>
+    </ul>
+    </details>
 </details>
+
+
 **English-to-Spanish Transformer**
 - Implementation of the paper _Attention is All You Need_ from scratch using the specified architecture from the original experiment with hardware and task specific learning configurations. 
 - The Transformer was configured for text-to-text related tasks, specifically language translation from english to spanish.
--  Hyperparameters of the model architecture are similar to the specifications of the paper.
+- Hyperparameters of the model architecture are similar to the specifications of the paper.
 - Dataset: opus_books en-es 93k
 - [Code](https://github.com/mbcruz96/English-to-Spanish-Transformer)
   
