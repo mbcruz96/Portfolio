@@ -115,6 +115,16 @@
         <li><a href="https://github.com/mbcruz96/Canny-Edge-Detection.git">Code</a></li>
     </ul>
     </details>
+     <details>
+    <summary>BLIP2</summary>
+    <ul>
+        <li>Exploring the functionality of BLIP2 VLP model and its different inferencing methods</li>
+        <li>Inferencing types: image-text retrieval, image captioning, VQA</li>
+        <li>Evaluated the metrics in the BLIP2 paper</li>
+        <li>Dataset: COCO, MSVDQA</li>
+        <li><a href="https://github.com/mbcruz96/BLIP2.git">Code</a></li>
+    </ul>
+    </details>
 </details>
 
 
