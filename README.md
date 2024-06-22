@@ -62,7 +62,7 @@
   </tr>
   <tr border=1px color="black">
     <div style="text-align:center;justify-content:center;">
-      <td border=1px color="black" style="width:25%"><img src="assets/Img/deep-head.png" alt="Deep Head" width=80px height=159px></td>
+      <td border=1px color="black" style="width:25%"><img src="assets/Img/dh.png" alt="Deep Head" width=167px height=89px></td>
     </div>
     <td border=1px color="black" style="width:75%">
       <div style="text-align:center;justify-content:center;">
