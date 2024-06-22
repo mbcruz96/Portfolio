@@ -206,45 +206,79 @@
     </details>
 </details>
 
-**Neural Network from Scratch**
-- Implemented a two layer nerual network including forward and backward propagation from scratch only using the numpy library.
-- No torch or tensorflow library fucntions were utilized.
-- Dataset: two class version of the CIFAR-10 dataset
-- Binary classification task using binary cross entropy and momentum based mini-batch stochastic gradient descent
-- [Code](https://github.com/mbcruz96/Neural-Network)
+<details>
+<summary>Machine Learning/Artificial Intelligence</summary>
+<br>
+    <details>
+    <summary>Neural Network from Scratch</summary>
+    <ul>
+        <li>Implemented a two layer nerual network including forward and backward propagation from scratch only using the numpy library.</li>
+        <li>No torch or tensorflow library fucntions were utilized.</li>
+        <li>Dataset: two class version of the CIFAR-10 dataset.</li>
+        <li>Using the CIFAR-10 dataset, different hyperparameters were used in order to determine which hyperparameters affected the model's training the most.</li>
+        <li>Binary classification task using binary cross entropy and momentum based mini-batch stochastic gradient descent</li>
+        <li><a href="https://github.com/mbcruz96/Neural-Network">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>Artificially Intelligent Pac-Man Simulation</summary>
+    <ul>
+        <li>Using Berkley's Pac-Man simulator, various artificial intelligence techniques were implemented to automate the video game Pac-Man effieciently.</li>
+        <li>Implemented artificial intelligence search methods including depth first search, breadth first search, a-star search, and uniform cost search, to enable Pac-Man to optimally consume all of the dots in the plane.</li>
+        <li>Designed and implemented Q-learning and Value iteration reinforcement learning techniques to find the best policy for the model</li>
+        <li><a href="https://github.com/mbcruz96/Search-Agents">Code</a></li>
+    </ul>
+    </details>
+</details>
 
-
-**Artificially Intelligent Pac-Man Simulation**
-- Using Berkley's Pac-Man simulator, various artificial intelligence techniques were implemented to automate the video game Pac-Man effieciently.
-- Implemented artificial intelligence search methods including depth first search, breadth first search, a-star search, and uniform cost search, to enable Pac-Man to optimally consume all of the dots in the plane.
-- Designed and implemented Q-learning and Value iteration reinforcement learning techniques to find the best policy for the model
-- [Code](https://github.com/mbcruz96/Search-Agents)
-  
-**Weak Heap**
-- Implemented a heap varient, a weak heap
-- The weak heap removes the shape constraint of the classic heap structure via reverse bits to lower computation cost of the data structures operations
-- [Code](https://github.com/mbcruz96/Weakheap)
-  
-**Python Dungeon Crawler VideoGame**
-- Implemented an Isometric dungeon crawler
-- A sqlite3 database was used to save highscores for each completed run.
-- Pygame was used as the primary development library along with the native libraries: Math, os, random, and time.
-- [Code](https://github.com/mbcruz96/Python-Game)
-
-**FAT32 File System**
-- Designed a FAT32 filesystem and all of its' operations
-- [Code](https://github.com/mbcruz96/FAT32)
- 
-**Elevator Kernel Module**
-- Created a kernel module that simulates the functionality of an elevator
-- Compared different implementations to find optimal policies
-- Added system calls to the OS and used said calls in a module that utilized concurrent threads in C
-- [Code](https://github.com/mbcruz96/Elevator-Kernel-Module)
-  
-**DES Encryption**
-- Implementation of the DES encryption algorithm
-- [Code](https://github.com/mbcruz96/DES/tree/main)
-  
-**MCTL template library**
-- Created the Michael Cruz template library, which implements some of the data structures available in the C++ std library.
-- [Code](https://github.com/mbcruz96/MCTL.git)
+<details>
+<summary>Software Engineering</summary>
+<br>
+    <details>
+    <summary>Weak Heap</summary>
+    <ul>
+        <li> Implemented a heap varient, a weak heap</li>
+        <li>The weak heap removes the shape constraint of the classic heap structure via reverse bits to lower computation cost of the data structures operations</li>
+        <li><a href="https://github.com/mbcruz96/Weakheap">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>Python Dungeon Crawler VideoGame</summary>
+    <ul>
+        <li>Implemented an Isometric dungeon crawler</li>
+        <li>A sqlite3 database was used to save highscores for each completed run.</li>
+        <li>Pygame was used as the primary development library along with the native libraries: Math, os, random, and time.</li>
+        <li><a href="https://github.com/mbcruz96/Python-Game">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>FAT32 File System</summary>
+    <ul>
+        <li>Designed a FAT32 filesystem and all of its' operations</li>
+        <li><a href="https://github.com/mbcruz96/FAT32">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>Elevator Kernel Module</summary>
+    <ul>
+        <li>Created a kernel module that simulates the functionality of an elevator.</li>
+        <li>Compared different implementations to find optimal policies.</li>
+        <li>Added system calls to the OS and used said calls in a module that utilized concurrent threads in C.</li>
+        <li><a href="https://github.com/mbcruz96/Elevator-Kernel-Module">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>DES Encryption</summary>
+    <ul>
+        <li>Implementation of the DES encryption algorithm</li>
+        <li><a href="https://github.com/mbcruz96/DES/tree/main">Code</a></li>
+    </ul>
+    </details>
+    <details>
+    <summary>MCTL Template Library</summary>
+    <ul>
+        <li>Created the Michael Cruz template library, which implements some of the data structures available in the C++ std library.</li>
+        <li><a href="https://github.com/mbcruz96/MCTL.git">Code</a></li>
+    </ul>
+    </details>
+</details>
