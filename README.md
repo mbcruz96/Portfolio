@@ -62,6 +62,19 @@
   </tr>
   <tr border=1px color="black">
     <div style="text-align:center;justify-content:center;">
+      <td border=1px color="black" style="width:25%"><img src="assets/Img/deep-head.png" alt="Deep Head" width=80px height=159px></td>
+    </div>
+    <td border=1px color="black" style="width:75%">
+      <div style="text-align:center;justify-content:center;">
+        <b>Deep Head: Self-Attention for Rich Hierarchical Feature Representations</b>
+        <br>
+        <a href="https://github.com/mbcruz96/Deep-Head/blob/main/Deep-Head%20Report.pdf">[PDF]</a>
+        <a href="https://github.com/mbcruz96/Deep-Head">[CODE]</a>
+      </div>
+    </td>
+  </tr>
+  <tr border=1px color="black">
+    <div style="text-align:center;justify-content:center;">
       <td border=1px color="black" style="width:25%"><img src="assets/Img/fed learning.png" alt="Federated Learning" width=126px height=82px></td>
     </div>
     <td border=1px color="black" style="width:75%">
