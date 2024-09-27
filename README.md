@@ -102,6 +102,13 @@
 </table>
 
 ## Projects
+**Affine and Metric Image Rectification**
+- Implemented two programs, one that rectified images up to affinity and the other up to similarity
+- Through guided user input, parallel lines and points on circles are selected in images 
+- To compute the affinity homography, two vanishing points were identified which allowed me to compute the line at infinity and construct the transformation
+- To compute the similarity homography, a homogenous representation of a circle is constructed from 5 points on a circle and then intersected with two vanishing points to find the circular points.
+- [Code](https://github.com/mbcruz96/Rectification)
+  
 **English-to-Spanish Transformer**
 - Implementation of the paper _Attention is All You Need_ from scratch using the specified architecture from the original experiment with hardware and task specific learning configurations. 
 - The Transformer was configured for text-to-text related tasks, specifically language translation from english to spanish.
