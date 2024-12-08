@@ -102,7 +102,7 @@
 </table>
 
 ## Projects
-# Stereo 3D Reconstruction
+**Stereo 3D Reconstruction**
 - Stereo 3D Reconstruction by linear triangulation implementation
 - For each image file, pairs of matching points are found between the two image views of the scene
 - Using a modified version of RANSAC, inliers of matching points are detected
