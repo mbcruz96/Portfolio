@@ -1,5 +1,5 @@
 ## Technical Skills
-### Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence, C++, Python, C, C#, Java, MATLAB, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
+### 3D Computer Vision, Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence, C++, Python, C, C#, Java, MATLAB, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
 
 ## Education 
 - M.S., Computer Science | University of Central Florida (_December 2024_)
@@ -113,6 +113,16 @@
 - Another 3D reconstruction of the scene is created with the built-in MatLab Triangulation function for comparison
 - [Code](https://github.com/mbcruz96/3D-Reconstruction)
 
+**Warping image sequences into a Panorama**
+- Implementation of creating image mosaics of sequences of images obtained such that the camera projection center does not change between images and only rotation occurs
+- Feature point correspondences are found for each image in the sequence using SIFT and the strong 200 points are selected
+- Matching image points are found using the feature vectors of each image and the image directly before or after the image in the sequence (depending on the position of the image in the sequence in reference to the center image)
+- A modified version of RANSAC is used to find inliers in each set of matching image points to reduce the number of points in efforts not to have an over-determined solution
+- A point correspondence matrix is constructed from the inlier matching points of each pair adjacent images
+- For each pair of adjacent images in the sequence, the infinite homography between the two images is computed by finding the nullspace of the point correspondence matrix
+- Each image is warped using the infinite homography and then stitched into a single panoramic image
+- [Code](https://github.com/mbcruz96/Panorama)
+  
 **Affine and Metric Image Rectification**
 - Implemented two programs, one that rectified images up to affinity and the other up to similarity
 - Through guided user input, parallel lines and points on circles are selected in images 
