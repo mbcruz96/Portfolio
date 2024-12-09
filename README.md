@@ -103,7 +103,7 @@
 
 ## Projects
 **Stereo 3D Reconstruction**
-- Stereo 3D Reconstruction by linear triangulation implementation
+- Stereo 3D Reconstruction by linear triangulation MatLab implementation
 - For each image file, pairs of matching points are found between the two image views of the scene
 - Using a modified version of RANSAC, inliers of matching points are detected
 - The fundamental matrix between the scenes is computed using the inlier matching image points
@@ -114,7 +114,7 @@
 - [Code](https://github.com/mbcruz96/3D-Reconstruction)
 
 **Warping image sequences into a Panorama**
-- Implementation of creating image mosaics of sequences of images obtained such that the camera projection center does not change between images and only rotation occurs
+- MatLab implementation of creating image mosaics of sequences of images obtained such that the camera projection center does not change between images and only rotation occurs
 - Feature point correspondences are found for each image in the sequence using SIFT and the strong 200 points are selected
 - Matching image points are found using the feature vectors of each image and the image directly before or after the image in the sequence (depending on the position of the image in the sequence in reference to the center image)
 - A modified version of RANSAC is used to find inliers in each set of matching image points to reduce the number of points in efforts not to have an over-determined solution
