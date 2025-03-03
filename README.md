@@ -102,6 +102,14 @@
 </table>
 
 ## Projects
+**PassProtect**
+- Developed a password manager application using Python in both a standalone executable and a website format
+- The standalone application allows multiple users to individually store and access passwords using Tkinter as a GUI and packages the python files into an executable with Pyintstaller
+- The application executable can be run on IOS, Windows, or Linux environments
+- The website uses standard HTML, CSS, and JavaScript along with associated libraries and is containerized and deployed with Docker and Kubernetes on a dedicated server
+- Both formats securely store encrypted website passwords and hashed user passwords using SQL databases, json files and CRUD operations
+- [Code](https://github.com/mbcruz96/PassProtect)
+
 **Stereo 3D Reconstruction**
 - Stereo 3D Reconstruction by linear triangulation MatLab implementation
 - For each image file, pairs of matching points are found between the two image views of the scene
