@@ -104,6 +104,7 @@
 ## Projects
 **PassProtect**
 - Developed a password manager application using Python in both a standalone executable and a website format
+- Both formats use an MVC architecture
 - The standalone application allows multiple users to individually store and access passwords using Tkinter as a GUI and packages the python files into an executable with Pyintstaller
 - The application executable can be run on IOS, Windows, or Linux environments
 - The website uses standard HTML, CSS, and JavaScript along with associated libraries and is containerized and deployed with Docker and Kubernetes on a dedicated server
