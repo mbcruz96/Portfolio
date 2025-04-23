@@ -102,6 +102,14 @@
 </table>
 
 ## Projects
+**Facial Detection Technology**
+- Implemented six facial detection algorithms: Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG
+- Each algorithm was tested on three mediums: image, video, and live stream
+- Bouding box coordinates are given for all detected faces in each sample
+- Each bounding box is projected back on the sample and compared to the original sample to determine precision, accuracy, and time measures
+- The positive predictive value (PPT) is computed for each algorithm to determine which algorithm is optimal for various situations and mediums
+- [Code](https://github.com/mbcruz96/Facial-detection)
+   
 **PassProtect**
 - Developed a password manager application using Python in both a standalone executable and a website format
 - Both formats use an MVC architecture
