@@ -105,7 +105,7 @@
 **Facial Detection Technology**
 - Implemented six facial detection algorithms: Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG
 - Each algorithm was tested on three mediums: image, video, and live stream
-- Bouding box coordinates are given for all detected faces in each sample
+- Bounding box coordinates are given for all detected faces in each sample
 - Each bounding box is projected back onto the sample and compared to the original to determine precision, accuracy, and time measures
 - The positive predictive value (PPT) is computed for each algorithm to determine which algorithm is optimal for various situations and mediums
 - [Code](https://github.com/mbcruz96/Facial-detection)
@@ -116,11 +116,11 @@
 - The standalone application allows multiple users to individually store and access passwords using Tkinter as a GUI and packages the python files into an executable with Pyintstaller
 - The application executable can be run on IOS, Windows, or Linux environments
 - The website uses standard HTML, CSS, and JavaScript along with associated libraries and is containerized and deployed with Docker and Kubernetes on a dedicated server
-- Both formats securely store encrypted website passwords and hashed user passwords using SQL databases, json files and CRUD operations
+- Both formats securely store encrypted website passwords and hashed user passwords using SQL databases, Json files and CRUD operations
 - [Code](https://github.com/mbcruz96/PassProtect)
 
 **Stereo 3D Reconstruction**
-- Stereo 3D Reconstruction by linear triangulation MatLab implementation
+- Stereo 3D Reconstruction by linear triangulation MATLAB implementation
 - For each image file, pairs of matching points are found between the two image views of the scene
 - Using a modified version of RANSAC, inliers of matching points are detected
 - The fundamental matrix between the scenes is computed using the inlier matching image points
@@ -131,7 +131,7 @@
 - [Code](https://github.com/mbcruz96/3D-Reconstruction)
 
 **Warping image sequences into a Panorama**
-- MatLab implementation of creating image mosaics of sequences of images obtained such that the camera projection center does not change between images and only rotation occurs
+- MATLAB implementation of creating image mosaics of sequences of images obtained such that the camera projection center does not change between images and only rotation occurs
 - Feature point correspondences are found for each image in the sequence using SIFT and the strong 200 points are selected
 - Matching image points are found using the feature vectors of each image and the image directly before or after the image in the sequence (depending on the position of the image in the sequence in reference to the center image)
 - A modified version of RANSAC is used to find inliers in each set of matching image points to reduce the number of points in efforts not to have an over-determined solution
@@ -158,7 +158,7 @@
 - Implemented the Canny Edge Detector
 - Images are smoothed using a Gaussian filter and then their orientations and magnitudes are calculated.
 - Non-maximum suppression is performed on the image pixels to discover true edge pixels.
-- Using hysterisis thresholding, dominant edge pixels are discovered using eight way connectivity. 
+- Using hysteresis thresholding, dominant edge pixels are discovered using eight way connectivity. 
 - [Code](https://github.com/mbcruz96/Canny-Edge-Detection.git)
 
 **BLIP2**
@@ -168,9 +168,9 @@
 - Dataset: COCO, MSVDQA
 - [Code](https://github.com/mbcruz96/BLIP2.git)
 
-**Generative Digit AutoEncoder**
+**Generative Digit Autoencoder**
 - Using the MNIST dataset, an autoencoder model was implemented that predicts what digit a photo contains
-- The model encodes the image into a latent space and decodes a representation of the original image with upsampling
+- The model encodes the image into a latent space and decodes a representation of the original image with up sampling
 - [Code](https://github.com/mbcruz96/AutoEncoder)
 
 **Otsu Thresholding**
@@ -180,8 +180,8 @@
 - [Code](https://github.com/mbcruz96/Otsu)
 
 **Neural Network from Scratch**
-- Implemented a two layer nerual network including forward and backward propagation from scratch only using the numpy library.
-- No torch or tensorflow library fucntions were utilized.
+- Implemented a two layer neural network including forward and backward propagation from scratch only using the numpy library.
+- No torch or tensorflow library functions were utilized.
 - Dataset: two class version of the CIFAR-10 dataset
 - Binary classification task using binary cross entropy and momentum based mini-batch stochastic gradient descent
 - [Code](https://github.com/mbcruz96/Neural-Network)
@@ -219,19 +219,19 @@
 - [Code](https://github.com/mbcruz96/topic-modeling)
 
 **Artificially Intelligent Pac-Man Simulation**
-- Using Berkley's Pac-Man simulator, various artificial intelligence techniques were implemented to automate the video game Pac-Man effieciently.
+- Using Berkley's Pac-Man simulator, various artificial intelligence techniques were implemented to automate the video game Pac-Man efficiently.
 - Implemented artificial intelligence search methods including depth first search, breadth first search, a-star search, and uniform cost search, to enable Pac-Man to optimally consume all of the dots in the plane.
 - Designed and implemented Q-learning and Value iteration reinforcement learning techniques to find the best policy for the model
 - [Code](https://github.com/mbcruz96/Search-Agents)
   
 **Weak Heap**
-- Implemented a heap varient, a weak heap
+- Implemented a heap variant, a weak heap
 - The weak heap removes the shape constraint of the classic heap structure via reverse bits to lower computation cost of the data structures operations
 - [Code](https://github.com/mbcruz96/Weakheap)
   
-**Python Dungeon Crawler VideoGame**
+**Python Dungeon Crawler video game**
 - Implemented an Isometric dungeon crawler
-- A sqlite3 database was used to save highscores for each completed run.
+- A sqlite3 database was used to save high scores for each completed run.
 - Pygame was used as the primary development library along with the native libraries: Math, os, random, and time.
 - [Code](https://github.com/mbcruz96/Python-Game)
 
