@@ -102,6 +102,16 @@
 </table>
 
 ## Projects
+**WebPsych**
+- The WebMD for mental disorders
+- The backend of WebPsych is as an LLM using a RAG pipeline stored as an API running on a nginx Docker container in an AWS S3 bin
+- The whole DSM-V is used as an ETL pipeline, which is stored in a Bedrock knowledge base as a vector store
+- I created an LLM pipeline that works like this:
+Retrieve initial user input -> extract the symptom present in the input -> find context within the knowledge base matching the symptoms -> find possible mental disorders matching the context and symptoms -> allow user to converse about mental disorder
+- The user can continue to have a conversation with the LLM regarding the mental disorder and the entire chat history is saved in a Firestore database and used as context throughout the conversation
+- The frontend was created a React.js frontend using Tailwind and Figma to interact with the API and databases
+- [Code](https://github.com/mbcruz96/WebPsych)
+  
 **Facial Detection Technology**
 - Implemented six facial detection algorithms: Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG
 - Each algorithm was tested on three mediums: image, video, and live stream
