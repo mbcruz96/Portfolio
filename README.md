@@ -112,7 +112,7 @@ Retrieve initial user input -> extract the symptom present in the input -> find 
 - The frontend was created a React.js frontend using Tailwind and Figma to interact with the API and databases
 - [Code](https://github.com/mbcruz96/WebPsych)
   
-**Facial Detection Technology**
+**Building an Efficient Facial Detection System**
 - Implemented six facial detection algorithms: Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG
 - Each algorithm was tested on three mediums: image, video, and live stream
 - Bounding box coordinates are given for all detected faces in each sample
@@ -140,7 +140,7 @@ Retrieve initial user input -> extract the symptom present in the input -> find 
 - Another 3D reconstruction of the scene is created with the built-in MatLab Triangulation function for comparison
 - [Code](https://github.com/mbcruz96/3D-Reconstruction)
 
-**Warping image sequences into a Panorama**
+**Image Stitching with Homography-Based Panoramas**
 - MATLAB implementation of creating image mosaics of sequences of images obtained such that the camera projection center does not change between images and only rotation occurs
 - Feature point correspondences are found for each image in the sequence using SIFT and the strong 200 points are selected
 - Matching image points are found using the feature vectors of each image and the image directly before or after the image in the sequence (depending on the position of the image in the sequence in reference to the center image)
@@ -150,7 +150,7 @@ Retrieve initial user input -> extract the symptom present in the input -> find 
 - Each image is warped using the infinite homography and then stitched into a single panoramic image
 - [Code](https://github.com/mbcruz96/Panorama)
   
-**Affine and Metric Image Rectification**
+**Image Rectification**
 - Implemented two programs, one that rectified images up to affinity and the other up to similarity
 - Through guided user input, parallel lines and points on circles are selected in images 
 - To compute the affinity homography, two vanishing points were identified which allowed me to compute the line at infinity and construct the transformation
@@ -189,13 +189,26 @@ Retrieve initial user input -> extract the symptom present in the input -> find 
 - The intensity which yields the highest variance amongst the distributions is chosen as the thresholding value used to alter the original image.
 - [Code](https://github.com/mbcruz96/Otsu)
 
-**Neural Network from Scratch**
+**End-to-End Deep Learning: Building a Transformer from Scratch**
 - Implemented a two layer neural network including forward and backward propagation from scratch only using the numpy library.
 - No torch or tensorflow library functions were utilized.
 - Dataset: two class version of the CIFAR-10 dataset
 - Binary classification task using binary cross entropy and momentum based mini-batch stochastic gradient descent
 - [Code](https://github.com/mbcruz96/Neural-Network)
-  
+
+**Regression Model From Scratch**
+- Trained a linear regression model on both linear data and unlinear data
+- Implemented the linear combination, mean squared error cost function, and gradient descent functions from scratch
+- After training the decision boundary is displayed for both training sets
+- [Code](https://github.com/mbcruz96/Regression/blob/main/Linear_regression.ipynb)
+
+**Decision Tree and Ensamble Forest Models**
+- Trained a decision tree classifier and an Ensamble Forest classifier for fare price data
+- Preprocessed the dataset to normalize the fare prices data and transform gender and fare category data types into categorical data
+- Calculated the cross validation score for each model
+- Created two new models from the Ensamble Forest model using bagging and boosting techniques to improve its performance
+- [Code](https://github.com/mbcruz96/Decision-tree/blob/main/DecisionTree.ipynb)
+- 
 **Comparative Convolutional Neural Network Designs**
 - Using the MNIST dataset, multiple convolutional neural network architectures were designed to see how different architectures affect the quality of the model.
 - Through command line interface, five different models can be selected with different numbers of layers, activations, and hyperparameters. Each model will train and accuracy and precision are calculated and displayed for each iteration.
@@ -210,6 +223,13 @@ Retrieve initial user input -> extract the symptom present in the input -> find 
 - Another classifier was trained on the same transformer using linear probing so that the previous model parameters were not trained with the new classifier.
 - The classification precision and accuracy of both models were compared.
 - [Code](https://github.com/mbcruz96/Fine-Tune-BERT)
+  
+**Data Analysis**
+- Processed data from a monthly financial statement and analyzed anual spending
+- Imported the financial PDF and stored in a dataframe for preprocessing
+- Analyzed initial data and converted fincial data into floating point values and replaced missing values
+- Plotted yearly income vs yearly savings for each account in line graphs and bar charts to enable easy analysis
+-[Code](https://github.com/mbcruz96/Data-analysis/blob/main/FinancialAnalysis.ipynb)
 
 **Generative Shakespearian Speech Model**
 - NLP model that generates text in the style of Shakespearian english
