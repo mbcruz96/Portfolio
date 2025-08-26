@@ -128,6 +128,13 @@ Retrieve initial user input -> extract the symptom present in the input -> find 
 - [Game](https://mbcruz96.github.io/tenzies/)
 - [Code](https://github.com/mbcruz96/tenzies/tree/main)
 
+**Meme Generation Application**
+- This tool puts the power of viral humor directly into the user's hands
+- It dynamically fetches random meme templates from an external API, providing a fresh canvas every time
+-  Users can then unleash their creativity by adding custom top and bottom text, instantly transforming a simple image into a hilarious, shareable meme
+-  [Game](https://mbcruz96.github.io/meme-generator/)
+-  [Code](https://github.com/mbcruz96/meme-generator)
+  
 **Building an Efficient Facial Detection System**
 - Implemented six facial detection algorithms: Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG
 - Each algorithm was tested on three mediums: image, video, and live stream
