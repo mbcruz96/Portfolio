@@ -119,7 +119,15 @@ Retrieve initial user input -> extract the symptom present in the input -> find 
 -  Vite was chosen for its lightning-fast development server and optimized build process, ensuring a smooth developer experience and a highly performant final product
 -  [Game](https://mbcruz96.github.io/endgame/)
 -  [Code](https://github.com/mbcruz96/endgame)
-   
+
+**Tenzies Web Game**
+- A dynamic and engaging web version of the classic dice game Tenzies
+- Built with React and Vite, the application challenges players to roll dice until all ten display the same value
+- The core gameplay loop involves rolling a set of dice and selectively "holding" the ones they want to keep, a mechanic that highlights the game's interactive nature
+- The design prioritizes a clean, user-friendly interface that lets the game's core loop: rolling, holding, and winning
+- [Game](https://mbcruz96.github.io/tenzies/)
+- [Code](https://github.com/mbcruz96/tenzies/tree/main)
+
 **Building an Efficient Facial Detection System**
 - Implemented six facial detection algorithms: Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG
 - Each algorithm was tested on three mediums: image, video, and live stream
