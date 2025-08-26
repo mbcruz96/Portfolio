@@ -111,7 +111,15 @@ Retrieve initial user input -> extract the symptom present in the input -> find 
 - The user can continue to have a conversation with the LLM regarding the mental disorder and the entire chat history is saved in a Firestore database and used as context throughout the conversation
 - The frontend was created a React.js frontend using Tailwind and Figma to interact with the API and databases
 - [Code](https://github.com/mbcruz96/WebPsych)
-  
+
+**Endgame Web Game**
+- This project is a classic word guessing game, a modern take on Hangman, developed as a single-page application using React and built with Vite
+-  The goal is to guess a hidden word by suggesting one letter at a time. The game provides visual feedback on correct and incorrect guesses, updating the user on their progress and remaining attempts
+-  The application leverages React's component-based architecture for a clean and maintainable codebase, with state management handled efficiently to update the game's UI in real time
+-  Vite was chosen for its lightning-fast development server and optimized build process, ensuring a smooth developer experience and a highly performant final product
+-  [Game](https://mbcruz96.github.io/endgame/)
+-  [Code](https://github.com/mbcruz96/endgame)
+   
 **Building an Efficient Facial Detection System**
 - Implemented six facial detection algorithms: Haars Cascade, MTCNN, Dlib, DNN, RetinaFace, and HOG
 - Each algorithm was tested on three mediums: image, video, and live stream
