@@ -1,5 +1,5 @@
 ## Technical Skills
-### 3D Computer Vision, Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence, C++, Python, C, C#, Java, MATLAB, Pytorch, TensorFlow, Kali Linux, HTML5, CSS, JavaScript, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
+### 3D Computer Vision, Computer Vision, Natural Language Processing, Machine Learning, Artificial Intelligence, C++, Python, C, C#, JavaScript, Java, MATLAB, Pytorch, TensorFlow, LangChain, LangSmith, LangGraph, n8n, Kali Linux, HTML5, CSS, React.js, Node.js, Next.js, TypeScript, Tailwind, PHP, jQuery, AJAX, SQL, Firebase, XML, Accela, Crystal Reports, Toad SQL Server
 
 ## Education 
 - M.S., Computer Science | University of Central Florida (_December 2024_)
